@@ -1,0 +1,9 @@
+https://smart-dev-apsouth1-analytics-etl.s3.ap-south-1.amazonaws.com/news-smart-carlaunches/latest_ai_automotive.json
+
+
+https://smart-dev-apsouth1-analytics-etl.s3.ap-south-1.amazonaws.com/news-smart-carlaunches/trending_automotive.json
+
+
+
+https://smart-dev-apsouth1-analytics-etl.s3.ap-south-1.amazonaws.com/news-smart-carlaunches/latest_car_launches.json
+
