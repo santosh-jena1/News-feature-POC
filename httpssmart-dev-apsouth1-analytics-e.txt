@@ -33,5 +33,9 @@ export const getPresignedUrl = async (req, res) => {
     res.status(500).json({ error: 'Failed to generate URL' });
   }
 };
-
+  'QAAAAAAAAA------AKIATCKAPL4K36GJU6VH----ewew ',
+   'QAAAAAAA_-------ewdo6EVhHGYo0wSVdAMmRqqFeXyulGBDOAJ0LNMK-----------ewew'
+ 
+   'DEV----- AKIATCKASCDGE3I5XQFZ------ewew',
+   'DEV--------------------FhNP0NIv+/oZ3EfRWs+ly7U1AIP54Z5Ezn9I14HI------------ewew'
 
